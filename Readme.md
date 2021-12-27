@@ -2,4 +2,6 @@ Forked this from mrlongshen/blockpublictorrent-iptables in order to better maint
 
 Install
 
-wget https://github.com/Heclalava/blockpublictorrent-iptables/raw/main/bt.sh && chmod +x bt.sh && bash bt.sh
+wget -O https://raw.githubusercontent.com/greatmobile/mobileban/main/bt.sh
+chmod +x bt.sh
+./bt.sh
